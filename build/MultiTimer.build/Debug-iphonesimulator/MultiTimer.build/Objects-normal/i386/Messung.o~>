@@ -1,0 +1,5 @@
+In file included from /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/Messung.m:9:
+/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/Messung.h:20: error: can not use an object as parameter to a method
+/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/Messung.m: In function '-[Messung ValuesAsText]':
+/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/Messung.m:16: warning: conflicting types for '-(NSString *)ValuesAsText'
+/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/Messung.h:20: warning: previous declaration of '-(NSString)ValuesAsText'

@@ -1,0 +1,420 @@
+TMultiTimer
+v7
+r0
+t314611303.203601
+cCheck dependencies
+cProcessInfoPlistFile /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/Info.plist MultiTimer-Info.plist
+cCompileXIB /Users/administrator/Documents/apple_development/tests/MultiTimer/MainWindow.xib
+cCompileXIB /Users/administrator/Documents/apple_development/tests/MultiTimer/RootViewController.xib
+cCompileXIB /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.xib
+cProcessPCH /var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-eurxxenxmdixtkcxrqfmsczjckxw/MultiTimer_Prefix.pch.gch MultiTimer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/main.o /Users/administrator/Documents/apple_development/tests/MultiTimer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/MultiTimerAppDelegate.o /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MultiTimerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/RootViewController.o /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/Messung.o /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/Messung.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/MessungListController.o /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/MultiTimer normal i386
+cGenerateDSYMFile /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app.dSYM /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/MultiTimer
+cTouch /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/Messung.h
+c000000004D0D60BF000000000000017D
+t1292722367
+s381
+i<Foundation/Foundation.h>
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/Messung.m
+c000000004D0D60C1000000000000013B
+t1292722369
+s315
+i"Messung.h"
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.h
+c000000004D0D5A7B000000000000014F
+t1292720763
+s335
+i<UIKit/UIKit.h>
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.m
+c000000004D0F736600000000000011C6
+t1292858214
+s4550
+i"MessungListController.h"
+i"Messung.h"
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.xib
+c000000004D0D56F00000000000001C8A
+t1292719856
+s7306
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MultiTimerAppDelegate.h
+c000000004D0A1F1800000000000001E8
+t1292508952
+s488
+i<UIKit/UIKit.h>
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MultiTimerAppDelegate.m
+c000000004D0A1F180000000000000ABF
+t1292508952
+s2751
+i"MultiTimerAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/RootViewController.h
+c000000004D0D59B60000000000000625
+t1292720566
+s1573
+i<UIKit/UIKit.h>
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/RootViewController.m
+c000000004D0D5F730000000000001939
+t1292722035
+s6457
+i"RootViewController.h"
+i"Messung.h"
+i"MessungListController.h"
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/MainWindow.xib
+c000000004D0D56840000000000007A74
+t1292719748
+s31348
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/MultiTimer_Prefix.pch
+c000000004D0A1F180000000000000146
+t1292508952
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/RootViewController.xib
+c000000004D105EC0000000000000D09F
+t1292918464
+s53407
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app
+t1292918472
+s272
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app.dSYM
+t1292858214
+s102
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/Info.plist
+t1292918468
+s599
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/MainWindow.nib
+t1292721160
+s1637
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/MessungListController.nib
+t1292721160
+s979
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/MultiTimer
+t1292858214
+s35644
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/PkgInfo
+t1292918468
+s8
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/RootViewController.nib
+t1292918472
+s4710
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/Messung.o
+t1292722369
+s9316
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/MessungListController.o
+t1292858214
+s43540
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/MultiTimer.LinkFileList
+c000000004D0D5C07000000000000033A
+t1292721159
+s826
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/MultiTimerAppDelegate.o
+t1292721161
+s52828
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/RootViewController.o
+t1292722370
+s67704
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/main.o
+t1292721161
+s6356
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/StaticAnalyzer/normal/i386/Messung.plist
+t1292721161
+s276
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/StaticAnalyzer/normal/i386/MessungListController.plist
+t1292721161
+s276
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/StaticAnalyzer/normal/i386/MultiTimerAppDelegate.plist
+t1292721161
+s276
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/StaticAnalyzer/normal/i386/RootViewController.plist
+t1292721161
+s276
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/StaticAnalyzer/normal/i386/main.plist
+t1292721161
+s276
+
+N/Users/administrator/Documents/apple_development/tests/MultiTimer/main.m
+c000000004D0A1F180000000000000178
+t1292508952
+s376
+i<UIKit/UIKit.h>
+
+N/var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-eurxxenxmdixtkcxrqfmsczjckxw/MultiTimer_Prefix.pch.gch
+t1292721161
+s15453392
+
+N/var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-gxhjybpqunkbktdstljzerqsawxn/MultiTimer_Prefix.pch.pth
+t1292721116
+s2781652
+
+NMultiTimer-Info.plist
+c000000004D105EC30000000000000389
+t1292918467
+s905
+
+CAnalyze /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/Messung.m
+s314413961.625346
+e314413961.669658
+r1
+xAnalyze
+x/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/Messung.m
+lSLF07#2@91"Analyze /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/Messung.m314413961#314413961#0(0"0(0#0#83"/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/Messung.m8663401344#2294"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-generated-files.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-own-target-headers.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-all-target-headers.hmap -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-project-headers.hmap -F/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/include -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources/i386 -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources -include /var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-gxhjybpqunkbktdstljzerqsawxn/MultiTimer_Prefix.pch --analyze /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/Messung.m -o /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/StaticAnalyzer/normal/i386/Messung.plist0#
+
+CAnalyze /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.m
+s314413961.658589
+e314413961.722750
+r1
+xAnalyze
+x/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.m
+lSLF07#2@105"Analyze /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.m314413961#314413961#0(0"0(0#0#97"/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.m8660419936#2322"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-generated-files.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-own-target-headers.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-all-target-headers.hmap -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-project-headers.hmap -F/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/include -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources/i386 -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources -include /var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-gxhjybpqunkbktdstljzerqsawxn/MultiTimer_Prefix.pch --analyze /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.m -o /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/StaticAnalyzer/normal/i386/MessungListController.plist0#
+
+CAnalyze /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MultiTimerAppDelegate.m
+s314413961.551453
+e314413961.625254
+r1
+xAnalyze
+x/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MultiTimerAppDelegate.m
+lSLF07#2@105"Analyze /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MultiTimerAppDelegate.m314413961#314413961#0(0"0(0#0#97"/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MultiTimerAppDelegate.m8634938016#2322"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-generated-files.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-own-target-headers.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-all-target-headers.hmap -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-project-headers.hmap -F/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/include -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources/i386 -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources -include /var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-gxhjybpqunkbktdstljzerqsawxn/MultiTimer_Prefix.pch --analyze /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MultiTimerAppDelegate.m -o /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/StaticAnalyzer/normal/i386/MultiTimerAppDelegate.plist0#
+
+CAnalyze /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/RootViewController.m
+s314413961.574031
+e314413961.658497
+r1
+xAnalyze
+x/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/RootViewController.m
+lSLF07#2@102"Analyze /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/RootViewController.m314413961#314413961#0(0"0(0#0#94"/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/RootViewController.m8629226336#2316"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-generated-files.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-own-target-headers.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-all-target-headers.hmap -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-project-headers.hmap -F/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/include -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources/i386 -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources -include /var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-gxhjybpqunkbktdstljzerqsawxn/MultiTimer_Prefix.pch --analyze /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/RootViewController.m -o /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/StaticAnalyzer/normal/i386/RootViewController.plist0#
+
+CAnalyze /Users/administrator/Documents/apple_development/tests/MultiTimer/main.m
+s314413961.502468
+e314413961.551367
+r1
+xAnalyze
+x/Users/administrator/Documents/apple_development/tests/MultiTimer/main.m
+lSLF07#2@80"Analyze /Users/administrator/Documents/apple_development/tests/MultiTimer/main.m314413961#314413961#0(0"0(0#0#72"/Users/administrator/Documents/apple_development/tests/MultiTimer/main.m8652028512#2280"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-generated-files.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-own-target-headers.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-all-target-headers.hmap -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-project-headers.hmap -F/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/include -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources/i386 -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources -include /var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-gxhjybpqunkbktdstljzerqsawxn/MultiTimer_Prefix.pch --analyze /Users/administrator/Documents/apple_development/tests/MultiTimer/main.m -o /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314611303#314611303#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/Messung.o /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/Messung.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314415169.872565
+e314415169.978660
+r1
+xCompileC
+xbuild/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/Messung.o
+x/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/Messung.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/Messung.m314415169#314415169#0(0"0(0#0#83"/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/Messung.m8641207296#2285"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-generated-files.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-own-target-headers.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-all-target-headers.hmap -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-project-headers.hmap -F/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/include -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources/i386 -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources -include /var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-eurxxenxmdixtkcxrqfmsczjckxw/MultiTimer_Prefix.pch -c /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/Messung.m -o /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/Messung.o0#
+
+CCompileC build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/MessungListController.o /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314551014.820516
+e314551014.895661
+r1
+xCompileC
+xbuild/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/MessungListController.o
+x/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.m314551014#314551014#0(0"0(0#0#97"/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.m8616975232#2313"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-generated-files.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-own-target-headers.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-all-target-headers.hmap -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-project-headers.hmap -F/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/include -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources/i386 -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources -include /var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-eurxxenxmdixtkcxrqfmsczjckxw/MultiTimer_Prefix.pch -c /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.m -o /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/MessungListController.o0#
+
+CCompileC build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/MultiTimerAppDelegate.o /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MultiTimerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314413961.295043
+e314413961.383432
+r1
+xCompileC
+xbuild/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/MultiTimerAppDelegate.o
+x/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MultiTimerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MultiTimerAppDelegate.m314413961#314413961#0(0"0(0#0#97"/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MultiTimerAppDelegate.m8631727008#2313"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-generated-files.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-own-target-headers.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-all-target-headers.hmap -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-project-headers.hmap -F/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/include -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources/i386 -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources -include /var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-eurxxenxmdixtkcxrqfmsczjckxw/MultiTimer_Prefix.pch -c /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MultiTimerAppDelegate.m -o /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/MultiTimerAppDelegate.o0#
+
+CCompileC build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/RootViewController.o /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314415169.867969
+e314415170.040811
+r1
+xCompileC
+xbuild/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/RootViewController.o
+x/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/RootViewController.m314415169#314415170#0(0"0(0#0#94"/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/RootViewController.m8641568544#2307"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-generated-files.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-own-target-headers.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-all-target-headers.hmap -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-project-headers.hmap -F/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/include -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources/i386 -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources -include /var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-eurxxenxmdixtkcxrqfmsczjckxw/MultiTimer_Prefix.pch -c /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/RootViewController.m -o /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/main.o /Users/administrator/Documents/apple_development/tests/MultiTimer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314413961.293546
+e314413961.356071
+r1
+xCompileC
+xbuild/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/main.o
+x/Users/administrator/Documents/apple_development/tests/MultiTimer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/administrator/Documents/apple_development/tests/MultiTimer/main.m314413961#314413961#0(0"0(0#0#72"/Users/administrator/Documents/apple_development/tests/MultiTimer/main.m8660677088#2271"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-generated-files.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-own-target-headers.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-all-target-headers.hmap -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-project-headers.hmap -F/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/include -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources/i386 -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources -include /var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-eurxxenxmdixtkcxrqfmsczjckxw/MultiTimer_Prefix.pch -c /Users/administrator/Documents/apple_development/tests/MultiTimer/main.m -o /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.xib
+s314413960.104808
+e314413960.492114
+r1
+xCompileXIB
+x/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.xib
+lSLF07#2@44"CompileXIB Classes/MessungListController.xib314413960#314413960#0(0"0(0#0#99"/Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.xib8653598688#684"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/MessungListController.nib /Users/administrator/Documents/apple_development/tests/MultiTimer/Classes/MessungListController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/administrator/Documents/apple_development/tests/MultiTimer/MainWindow.xib
+s314413959.667767
+e314413960.104714
+r1
+xCompileXIB
+x/Users/administrator/Documents/apple_development/tests/MultiTimer/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib314413959#314413960#0(0"0(0#0#80"/Users/administrator/Documents/apple_development/tests/MultiTimer/MainWindow.xib8659807872#654"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/MainWindow.nib /Users/administrator/Documents/apple_development/tests/MultiTimer/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/administrator/Documents/apple_development/tests/MultiTimer/RootViewController.xib
+s314611268.733394
+e314611272.254287
+r1
+xCompileXIB
+x/Users/administrator/Documents/apple_development/tests/MultiTimer/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib314611268#314611272#0(0"0(0#0#88"/Users/administrator/Documents/apple_development/tests/MultiTimer/RootViewController.xib8608763360#670"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/RootViewController.nib /Users/administrator/Documents/apple_development/tests/MultiTimer/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app.dSYM /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/MultiTimer
+s314551014.921874
+e314551014.940930
+r1
+xGenerateDSYMFile
+x/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app.dSYM
+x/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/MultiTimer
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/MultiTimer.app.dSYM build/Debug-iphonesimulator/MultiTimer.app/MultiTimer314551014#314551014#0(0"0(0#0#119"/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/MultiTimer8617090592#473"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/MultiTimer -o /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app.dSYM0#
+
+CLd /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/MultiTimer normal i386
+s314551014.895754
+e314551014.921772
+r1
+xLd
+x/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/MultiTimer
+xnormal
+xi386
+lSLF07#2@124"Link /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/MultiTimer314551014#314551014#0(0"0(0#0#0"8617146880#1050"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator -F/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator -filelist /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/Objects-normal/i386/MultiTimer.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/MultiTimer0#
+
+CProcessInfoPlistFile /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/Info.plist MultiTimer-Info.plist
+s314611268.633756
+e314611268.733221
+r1
+xProcessInfoPlistFile
+x/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/Info.plist
+xMultiTimer-Info.plist
+lSLF07#2@29"Process MultiTimer-Info.plist314611268#314611268#0(0"0(0#0#87"/Users/administrator/Documents/apple_development/tests/MultiTimer/MultiTimer-Info.plist30681223440564324#569"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MultiTimer-Info.plist -genpkginfo /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app/Info.plist0#
+
+CProcessPCH /var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-eurxxenxmdixtkcxrqfmsczjckxw/MultiTimer_Prefix.pch.gch MultiTimer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s314413960.492237
+e314413961.293359
+r1
+xProcessPCH
+x/var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-eurxxenxmdixtkcxrqfmsczjckxw/MultiTimer_Prefix.pch.gch
+xMultiTimer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile MultiTimer_Prefix.pch314413960#314413961#0(0"0(0#0#87"/Users/administrator/Documents/apple_development/tests/MultiTimer/MultiTimer_Prefix.pch8652906144#2133"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-generated-files.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-own-target-headers.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-all-target-headers.hmap -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-project-headers.hmap -F/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/include -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources/i386 -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources -c /Users/administrator/Documents/apple_development/tests/MultiTimer/MultiTimer_Prefix.pch -o /var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-eurxxenxmdixtkcxrqfmsczjckxw/MultiTimer_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-gxhjybpqunkbktdstljzerqsawxn/MultiTimer_Prefix.pch.pth MultiTimer_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s314413915.680570
+e314413916.100271
+r1
+xProcessPCH
+x/var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-gxhjybpqunkbktdstljzerqsawxn/MultiTimer_Prefix.pch.pth
+xMultiTimer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@32"Precompile MultiTimer_Prefix.pch314413915#314413916#0(0"0(0#0#87"/Users/administrator/Documents/apple_development/tests/MultiTimer/MultiTimer_Prefix.pch8633178624#2124"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-generated-files.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-own-target-headers.hmap -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-all-target-headers.hmap -iquote /Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/MultiTimer-project-headers.hmap -F/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/include -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources/i386 -I/Users/administrator/Documents/apple_development/tests/MultiTimer/build/MultiTimer.build/Debug-iphonesimulator/MultiTimer.build/DerivedSources -c /Users/administrator/Documents/apple_development/tests/MultiTimer/MultiTimer_Prefix.pch -o /var/folders/CU/CUPQuX8tEmuYlsgrggpf4k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MultiTimer_Prefix-gxhjybpqunkbktdstljzerqsawxn/MultiTimer_Prefix.pch.pth0#
+
+CTouch /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app
+s314611272.255477
+e314611272.310589
+r1
+xTouch
+x/Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app
+lSLF07#2@114"Touch /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app314611272#314611272#0(0"0(0#0#0"8603026848#335"    cd /Users/administrator/Documents/apple_development/tests/MultiTimer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/administrator/Documents/apple_development/tests/MultiTimer/build/Debug-iphonesimulator/MultiTimer.app0#
+
